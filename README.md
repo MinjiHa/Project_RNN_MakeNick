@@ -1,2 +1,2 @@
-# Project_RNN_MakeNick
+# Project_RNN_NickBot
  
