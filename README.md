@@ -10,5 +10,5 @@ RNN-LSTM 블로그 닉네임 생성 서비스 : 블로그 닉네임을 학습하
 - 순방향학습모델과 역방향 학습모델 결합하여
    영어닉네임 앞뒤 텍스트 자동생성기능 구현
 
-
+## 결과 프리뷰
  ![image](https://user-images.githubusercontent.com/63627272/89909110-ac420880-dc29-11ea-813c-1204b62fa6f7.png)
